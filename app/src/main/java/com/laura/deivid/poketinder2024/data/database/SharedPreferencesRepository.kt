@@ -1,4 +1,4 @@
-package com.laura.deivid.poketinder2024
+package com.laura.deivid.poketinder2024.data.database
 import android.content.Context
 import android.content.SharedPreferences
 

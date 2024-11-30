@@ -1,7 +1,8 @@
-package com.laura.deivid.poketinder2024
+package com.laura.deivid.poketinder2024.ui.viewmodel
 import android.content.Context
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
+import com.laura.deivid.poketinder2024.data.database.SharedPreferencesRepository
 
 class LoginViewModel(
     val context: Context

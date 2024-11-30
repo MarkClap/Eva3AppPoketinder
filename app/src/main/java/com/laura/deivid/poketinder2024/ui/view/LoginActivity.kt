@@ -1,9 +1,10 @@
-package com.laura.deivid.poketinder2024
+package com.laura.deivid.poketinder2024.ui.view
 
 import android.content.Intent
 import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
+import com.laura.deivid.poketinder2024.ui.viewmodel.LoginViewModel
 import com.laura.deivid.poketinder2024.databinding.ActivityLoginBinding
 
 class LoginActivity : AppCompatActivity() {

@@ -1,4 +1,4 @@
-package com.laura.deivid.poketinder2024
+package com.laura.deivid.poketinder2024.ui.view
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
